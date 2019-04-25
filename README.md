@@ -1,6 +1,7 @@
 # Google-Art （翻墙是一种艺术）
 
 > [科学上网汇总-190425更新](https://ysai.work/2019/03/02/科学上网/)
+> **[参考GFWdata](https://github.com/wcmbeta/GFWdata)**
 
 免费版
 ----
