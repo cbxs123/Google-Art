@@ -19,11 +19,12 @@
 
 自建服务器
 ----
-## 1、ssr
+## 1、[ssr](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
 ### 服务端
+
 ```
-wget --no-check-certificate https://github.com/cbxs123/Google-Art/ssr/bbr.sh && chmod +x bbr.sh && ./bbr.sh 
-wget -N --no-check-certificate https://github.com/cbxs123/Google-Art/ssr/ssr.sh && chmod +x ssr.sh && bash ssr.sh 
+wget --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-Art/master/ssr/bbr.sh && chmod +x bbr.sh && ./bbr.sh 
+wget -N --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-Art/master/ssr/ssr.sh && chmod +x ssr.sh && bash ssr.sh 
 ```
 
 ### 客户端
@@ -33,31 +34,35 @@ wget -N --no-check-certificate https://github.com/cbxs123/Google-Art/ssr/ssr.sh 
 - [Linux客户端](https://github.com/erguotou520/electron-ssr/releases/download/v0.2.6/electron-ssr-0.2.6.deb)
 - [Android客户端](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)
 
-## 2、v2ray
+## 2、[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 ### 服务端
 
 ```
-apt-get update -y && apt-get install curl -y 
-wget -N --no-check-certificate https://github.com/cbxs123/Google-Art/ssr/ssr.sh && chmod +x ssr.sh && bash ssr.sh 
+wget --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-Art/master/ssr/bbr.sh && chmod +x bbr.sh && ./bbr.sh 
+bash <(curl -s -L https://raw.githubusercontent.com/cbxs123/Google-Art/master/v2ray/v2ray.sh) 
 ```
 
-
-
 ### 客户端
-- Win客户端
-- Mac客户端
-- Linux客户端
-- Android客户端
-- Google插件
-## 3、Brook
+- [Win内核](https://github.com/v2ray/v2ray-core/releases)+[Win图形界面](https://github.com/2dust/v2rayN/releases)
+- [Android客户端](https://github.com/2dust/v2rayNG/releases/download/0.5.1/app-universal-release.apk)
+
+## 3、[Brook](https://github.com/txthinking/brook/releases)
+
 ### 服务端
 
+```
+wget --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-Art/master/ssr/bbr.sh && chmod +x bbr.sh && ./bbr.sh 
+wget -N --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-Art/master/brook/brook.sh && chmod +x brook.sh && bash brook.sh
+```
+
 ### 客户端
-- Win客户端
-- Mac客户端
-- Linux客户端
-- Android客户端
-- Google插件
+
+- [Win客户端](https://github.com/txthinking/brook/releases/download/v20190401/brook_windows_amd64.exe)
+- [Mac客户端](https://github.com/txthinking/brook/releases/download/v20190401/Brook.dmg)
+- [Linux客户端](https://github.com/txthinking/brook/releases/download/v20190401/brook_linux_arm64)
+- [Android客户端](https://github.com/txthinking/brook/releases/download/v20190401/Brook.apk)
+
+  
 
 
