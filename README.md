@@ -11,10 +11,10 @@
 - [Android客户端](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)
 
 ## 2、Windscribe(10G/月免费)  [官网](https://windscribe.com/) 注册可能翻墙
-- [Win客户端](https://windscribe.com/install/desktop/windows)
-- [Mac客户端](https://windscribe.com/install/desktop/osx)
+- [Win客户端](https://raw.githubusercontent.com/cbxs123/Google-Art/master/Windscribe/Windscribe.exe)
+- [Mac客户端](https://raw.githubusercontent.com/cbxs123/Google-Art/master/Windscribe/Windscribe.dmg)
 - [Linux客户端](https://windscribe.com/guides/linux)
-- [Android客户端](https://assets.staticnetcontent.com/android/Windscribe2-130.apk)
+- [Android客户端](https://raw.githubusercontent.com/cbxs123/Google-Art/master/Windscribe/Windscribe2-130.apk)
 - [Google插件](https://windscribe.com/install/extension/chrome)
 
 自建服务器
