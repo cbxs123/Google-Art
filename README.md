@@ -65,6 +65,19 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-
 - [Linux客户端](https://github.com/txthinking/brook/releases/download/v20190401/brook_linux_arm64)
 - [Android客户端](https://github.com/txthinking/brook/releases/download/v20190401/Brook.apk)
 
-  
+## 4、[WireGuard](https://www.atrandys.com/2018/1345.html)
+
+### 服务端
+
+```
+wget https://raw.githubusercontent.com/atrandys/wireguard/master/wireguard_install_ubuntu.sh && chmod +x wireguard_install_ubuntu.sh && ./wireguard_install_ubuntu.sh
+```
+
+### 客户端
+
+- [Win1.4](https://raw.githubusercontent.com/cbxs123/Google-Art/master/wireguard/TunSafe-1.4.exe)+[Win1.5](https://raw.githubusercontent.com/cbxs123/Google-Art/master/wireguard/TunSafe-1.5-rc2.exe)
+- [Mac+Linux](https://raw.githubusercontent.com/cbxs123/Google-Art/master/wireguard/1.pdf)
+- [Android客户端](https://raw.githubusercontent.com/cbxs123/Google-Art/master/wireguard/TunSafe-Android-Build4-2019-02-19.apk)
+
 
 
