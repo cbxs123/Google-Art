@@ -60,7 +60,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/cbxs123/Google-
 
 ### 客户端
 
-- [Win客户端](https://github.com/txthinking/brook/releases/download/v20190401/brook_windows_amd64.exe)
+- [Win客户端](https://github.com/txthinking/brook/releases/download/v20190401/brook_windows_amd64.exe)+[UI](https://raw.githubusercontent.com/cbxs123/Google-Art/master/brook/Brook_Tools.exe)
 - [Mac客户端](https://github.com/txthinking/brook/releases/download/v20190401/Brook.dmg)
 - [Linux客户端](https://github.com/txthinking/brook/releases/download/v20190401/brook_linux_arm64)
 - [Android客户端](https://github.com/txthinking/brook/releases/download/v20190401/Brook.apk)
